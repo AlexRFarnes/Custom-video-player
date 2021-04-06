@@ -18,9 +18,9 @@ Learn how to use the HTML5 Video API to create a custom video player with CSS an
 
 ## Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/57517804/113683278-99b79a80-96f6-11eb-8584-1058a5c097fc.png)
 
-[Demo]()
+[Demo](https://cocky-cray-d3462c.netlify.app)
 
 ## Built With
 
